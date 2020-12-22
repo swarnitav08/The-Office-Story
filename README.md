@@ -10,7 +10,7 @@
 
 The interactive charts can be viewed on NBViewer here - https://nbviewer.jupyter.org/github/swarnitav08/The-Office-Story/blob/main/The_Office_Story.ipynb
 
-Updated IMDB Ratings dataset with 9 newly added columns like - "episode_no","Total_lines","Total_scenes" and Air_date breakup is also uploaded here for public use.
+Updated IMDB Ratings dataset(the_office_imdb_ratings_updated.xlsx) with 9 newly added columns like - "episode_no","Total_lines","Total_scenes" and Air_date breakup is also uploaded here for public use.
 
 ## Related links-
 1) The EDA repository for this project can be viewed here - https://github.com/swarnitav08/EDA-for-The-Office-Story

@@ -17,3 +17,4 @@ Updated IMDB Ratings dataset(the_office_imdb_ratings_updated.xlsx) with 9 newly 
 2) A slide deck made using Plotly Slide Decks(Spectacle Editor) which includes all the visualizations in this project can be viewed here - 
 3) The repository of the Network graph created under visualizations for this project can be viewed here - https://github.com/swarnitav08/Network-graph-using-d3graph-
 4) The repository of the Chord diagram created under visualizations for this project can be viewed here -https://github.com/swarnitav08/Interactive-Chord-Diagram-using-chord-package
+5) A medium article written on this project can be viewed here -

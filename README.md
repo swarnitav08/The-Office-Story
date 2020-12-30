@@ -18,4 +18,4 @@ Updated IMDB Ratings dataset(the_office_imdb_ratings_updated.xlsx) with 9 newly 
 3) A slide deck of the EDA made using Jupyter slides covering analysis based on best director-writer combinations with respect to ratings;peculiar features of top 10 highly and lowly rated episodes;what went wrong in season 8,9 and more can be viewed here - https://swarnitav08.github.io/EDA-for-The-Office-Story/
 4) The repository of the Network graph created under visualizations for this project can be viewed here - https://github.com/swarnitav08/Network-graph-using-d3graph-
 5) The repository of the Chord diagram created under visualizations for this project can be viewed here -https://github.com/swarnitav08/Interactive-Chord-Diagram-using-chord-package
-6) A medium article written on this project can be viewed here -
+6) A medium article written on this project can be viewed here - https://swarnitav08.medium.com/the-office-story-thats-what-the-data-said-224e8a6f47e

@@ -4,7 +4,7 @@
 
 (a) Performed data pre-processing, feature engineering and data analysis on a dataset having every dialogue from “The Office” to summarize character stats, relationships and their influence on the popularity and success of the show(in terms of ratings and votes), presented through interactive visualizations. 
 
-(b) Goal - To determine what kind of questions can be answered from the show's script and ratings data analysis that can lead the makers to better data-driven decisions while investing in a season revival/reboot using pandas, plotly, d3graph and chord packages.
+(b) Goal - To determine what kind of questions can be answered from the show's script and ratings data analysis that can lead the makers to better data-driven decisions while investing in a potential revival/reboot using pandas, plotly, d3graph and chord packages.
 
 (c) Two datasets are used - The dialogues dataset from theofficequotes.net(the-office-lines.xlsx) and IMDB ratings dataset from Kaggle(TheOfficeIMDBPerEpisode.csv).
 

@@ -13,8 +13,9 @@ The interactive charts can be viewed on NBViewer here - https://nbviewer.jupyter
 Updated IMDB Ratings dataset(the_office_imdb_ratings_updated.xlsx) with 9 newly added columns like - "episode_no","Total_lines","Total_scenes" and Air_date breakup is also uploaded here for public use.
 
 ## Related links-
-1) The EDA repository for this project can be viewed here - https://github.com/swarnitav08/EDA-for-The-Office-Story
-2) A slide deck made using Plotly Slide Decks(Spectacle Editor) which includes all the visualizations in this project can be viewed here - https://plotly.com/~swarnitav08/56/the-office-story-slide-deck/
-3) The repository of the Network graph created under visualizations for this project can be viewed here - https://github.com/swarnitav08/Network-graph-using-d3graph-
-4) The repository of the Chord diagram created under visualizations for this project can be viewed here -https://github.com/swarnitav08/Interactive-Chord-Diagram-using-chord-package
-5) A medium article written on this project can be viewed here -
+1) A slide deck made using Plotly Slide Decks(Spectacle Editor) which includes all the character related analysis and visualizations from this project can be viewed here - https://plotly.com/~swarnitav08/56/the-office-story-slide-deck/
+2) The EDA repository for this project can be viewed here - https://github.com/swarnitav08/EDA-for-The-Office-Story 
+3) A slide deck of the EDA made using Jupyter slides covering analysis based on best director-writer combinations with respect to ratings;peculiar features of top 10 highly and lowly rated episodes;what went wrong in season 8,9 and more can be viewed here - https://swarnitav08.github.io/EDA-for-The-Office-Story/
+4) The repository of the Network graph created under visualizations for this project can be viewed here - https://github.com/swarnitav08/Network-graph-using-d3graph-
+5) The repository of the Chord diagram created under visualizations for this project can be viewed here -https://github.com/swarnitav08/Interactive-Chord-Diagram-using-chord-package
+6) A medium article written on this project can be viewed here -
